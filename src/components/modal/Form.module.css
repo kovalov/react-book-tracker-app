@@ -1,0 +1,25 @@
+.form {
+}
+
+.formGroup:not(.formGroup:last-child) {
+	margin-bottom: 1rem;
+}
+
+.formLabel {
+	display: block;
+	font-size: 1.5rem;
+	margin-bottom: 0.5rem;
+}
+
+.formInput {
+	width: 100%;
+	font-size: 1.5rem;
+}
+
+.formSelect {
+	width: 100%;
+	font-size: 1.5rem;
+}
+
+.formOption {
+}
